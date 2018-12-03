@@ -1,4 +1,3 @@
-.bat
-.class
-hi.class
-hi.java
+*.bat
+
+*.class
